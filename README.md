@@ -47,6 +47,10 @@ Prioritise opportunities that allow an individual or small independent partner t
 
 Use explicit statuses such as **Unverified lead**, **Evidence found**, **Provider-confirmed**, **Network-confirmed**, **Qualified**, **Deferred**, and **Rejected**. Distinguish provider self-reported claims from independent evidence and from project hypotheses.
 
+## Provider diversification
+
+Farmonaut is the initial case study, not an exclusive provider. A preliminary comparison of agriculture alternatives (EOSDA, Cropin, OneSoil) and adjacent geospatial platforms (Aspectum, CARTO), plus mining alternatives and adjacent technologies (Madini and further specialist candidates), is maintained in [Technology platform alternatives: agriculture and mining](docs/research/platform-alternatives/agriculture-and-mining-platforms.md). Capabilities and partner-programme descriptions are preliminary and require direct technical and commercial verification.
+
 ## Project records
 
 - [Project charter](PROJECT_CHARTER.md)
