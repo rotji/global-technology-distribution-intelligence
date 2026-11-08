@@ -21,3 +21,9 @@ All meaningful project-level research and documentation changes are recorded her
 - Flagged possible pre-purchase requirements, enterprise qualification and unknown Nigeria-specific conditions for follow-up.
 - Added technical caution that satellite mineral prospectivity outputs are exploration-screening targets, not confirmed deposits or compliant mineral resources/reserves.
 - No provider has been contacted or approved through this research update; no partnership is represented as confirmed.
+
+## 2026-11-09 — Provider diversification principle
+
+- Added a governing principle: never make a single technology provider the foundation of a market opportunity where credible alternatives exist.
+- Defined comparison requirements for direct substitutes, adjacent and complementary providers, including technical fit and partnership accessibility.
+- Clarified that researching multiple providers does not mean partnerships are established, and that concentration risk must be recorded when alternatives cannot be found.
