@@ -63,6 +63,23 @@ Use explicit statuses such as **Unverified lead**, **Evidence found**, **Provide
 - [Nigeria mining networks](docs/research/nigeria/mining-networks.md)
 - [Opportunity decisions](decisions/opportunity-decisions.md)
 
+## Structured register
+
+A companion workbook is used for structured records and cross-reference IDs. Its initial tabs are:
+
+1. Dashboard
+2. Technology Companies
+3. Partnership Opportunities
+4. Distribution Networks
+5. Network Contacts
+6. Company-Network Matches
+7. Verification Tracker
+8. Outreach & Relationships
+9. Opportunity Scorecard
+10. Activity Log
+
+The initial workbook is supplied separately as an Excel file for import into Google Sheets. A live Google Sheets document and automated synchronisation are not yet configured; do not treat the workbook as a live cloud sheet until that setup is completed.
+
 ## Important limitations
 
 This repository records research and planning. It does not imply that any provider has approved a partnership, that any commission is guaranteed, or that any listed organisation has agreed to distribute a product. Verify all commercial terms and organisational details before acting.
