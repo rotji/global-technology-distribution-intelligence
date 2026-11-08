@@ -13,3 +13,11 @@ All meaningful project-level research and documentation changes are recorded her
 - Created a companion workbook with ten structured tabs: dashboard, companies, partnership opportunities, networks, contacts, matches, verification, outreach, scorecard, and activity log.
 - The workbook is an importable Excel baseline, not a live Google Sheet; direct Google Sheets access and synchronisation remain unconfigured.
 - No partnership terms, organisation status, or commercial outcomes are represented as newly verified in this documentation pass.
+
+## 2026-11-09 — Multi-provider diversification
+
+- Added a preliminary comparison of agriculture, mining and adjacent geospatial technology providers so Farmonaut is treated as one candidate rather than a single point of dependence.
+- Recorded public partner routes where found and distinguished these from confirmed eligibility or agreed commercial terms.
+- Flagged possible pre-purchase requirements, enterprise qualification and unknown Nigeria-specific conditions for follow-up.
+- Added technical caution that satellite mineral prospectivity outputs are exploration-screening targets, not confirmed deposits or compliant mineral resources/reserves.
+- No provider has been contacted or approved through this research update; no partnership is represented as confirmed.
