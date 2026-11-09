@@ -41,7 +41,7 @@ These are research leads, not confirmed partners. Their current status, authorit
 
 ## Zero-capital filter
 
-Prioritise opportunities that allow an individual or small independent partner to participate without registration fees, required purchases, inventory, paid licences, equipment, or mandatory paid certification. Confirm Nigerian eligibility, commission or margin, payout method, thresholds, attribution, and permitted distribution arrangements in writing.
+Prioritise opportunities that allow an individual or small independent partner to participate without registration fees, compulsory purchases, inventory, paid licences, equipment, or mandatory paid certification. Confirm Nigerian eligibility, commission or margin, payout method, thresholds, attribution, and permitted distribution arrangements in writing.
 
 ## Research status language
 
@@ -49,7 +49,11 @@ Use explicit statuses such as **Unverified lead**, **Evidence found**, **Provide
 
 ## Provider diversification
 
-Farmonaut is the initial case study, not an exclusive provider. A preliminary comparison of agriculture alternatives (EOSDA, Cropin, OneSoil) and adjacent geospatial platforms (Aspectum, CARTO), plus mining alternatives and adjacent technologies (Madini and further specialist candidates), is maintained in [Technology platform alternatives: agriculture and mining](docs/research/platform-alternatives/agriculture-and-mining-platforms.md). Capabilities and partner-programme descriptions are preliminary and require direct technical and commercial verification.
+Farmonaut is the initial case study, not an exclusive provider. A preliminary comparison of agriculture alternatives (EOSDA, Cropin, OneSoil) and adjacent geospatial platforms (Aspectum, CARTO), plus mining alternatives and adjacent technologies (Madini and further specialist candidates), is maintained in [Technology platform alternatives: agriculture and mining](docs/research/platform-alternatives/agriculture-and-mining-platforms.md).
+
+The focused Nigeria agriculture comparison now evaluates the four providers against group field monitoring, agronomist-led scouting, aggregator/outgrower supply visibility, and institutional portfolio monitoring. It also separates technical fit from zero-capital partnership accessibility: [Nigeria agriculture provider and use-case comparison](docs/research/nigeria/agriculture-provider-use-case-comparison.md).
+
+Capabilities and partner-programme descriptions are preliminary and require direct technical and commercial verification.
 
 ## Project records
 
@@ -82,7 +86,7 @@ A companion workbook is used for structured records and cross-reference IDs. Its
 9. Opportunity Scorecard
 10. Activity Log
 
-The initial workbook is supplied separately as an Excel file for import into Google Sheets. A live Google Sheets document and automated synchronisation are not yet configured; do not treat the workbook as a live cloud sheet until that setup is completed.
+The current workbook is maintained separately in Google Sheets by the user. Keep its existing IDs and cross-references intact; mirror meaningful provider-status and verification changes there. A live automated synchronisation with this repository is not configured.
 
 ## Important limitations
 
