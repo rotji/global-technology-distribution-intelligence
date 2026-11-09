@@ -164,6 +164,20 @@ Sources:
 - https://help.onesoil.ai/en/articles/5237693-what-is-onesoil
 - https://onesoil.ai/en
 
+## 3.5 Nigeria-specific evidence: EOSDA / Agroxchange
+
+A material Nigeria-specific case study was identified after the initial comparison. EOSDA published a case study describing **Agroxchange Technology as its exclusive white-label partner in Nigeria** for EOSDA Crop Monitoring. EOSDA says Agroxchange used NDVI and NDRE to monitor crop development and NDWI to assess soil moisture, with a customised web platform and mobile scouting app. EOSDA also states that its cloud deployment helped avoid additional server hardware as workload scaled.
+
+**Why this changes the assessment**
+- EOSDA is not merely a technically relevant global platform; there is published evidence of a Nigerian white-label deployment and a local partner relationship.
+- This strengthens its relevance for Nigerian institutional, consulting and farm-finance use cases.
+- It does **not** prove that EOSDA currently accepts new individual Nigerian partners, that Agroxchange's arrangement is open to others, or that a no-prepurchase/referral route exists.
+- The case study is provider-published and describes a specific partner implementation. It is not independent verification of current model accuracy, current commercial terms or general availability.
+
+**Revised decision:** Raise EOSDA's Nigeria market-fit evidence, but keep its zero-capital status unresolved and its standard reseller pre-purchase requirement as a material barrier. The next question is whether EOSDA offers a referral, sub-channel or customer-funded pilot arrangement distinct from its published prepaid-hectare reseller model.
+
+Source: https://eos.com/blog/case-study-evidence-based-agriculture/
+
 ## 4. Matching providers to use cases
 
 | Use case | First provider to investigate | Alternative | Reason for the order | Main unresolved test |
