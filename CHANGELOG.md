@@ -12,7 +12,7 @@ All meaningful project-level research and documentation changes are recorded her
 - No provider or network was contacted. No Nigerian model performance, partner eligibility, commercial terms, customer demand or partnership was confirmed.
 - Google Sheets was not directly edited in this session; its existing IDs and records should be preserved when mirroring the new findings.
 
-## 2026-11-08 — Repository foundation and structured register
+- Follow-up source check identified EOSDA's provider-published Nigeria case study with Agroxchange Technology as an exclusive white-label partner. Updated EOSDA's Nigerian market-fit assessment while retaining the unresolved zero-capital/prepurchase concern.\n\n## 2026-11-08 — Repository foundation and structured register
 
 - Created the initial project documentation structure.
 - Recorded the project's mission, scope, zero-capital constraint, and research-first operating model.
