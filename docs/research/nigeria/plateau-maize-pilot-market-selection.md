@@ -116,6 +116,25 @@ Sources:
 - https://businessday.ng/news/article/insecurity-mangu-crisis-threatens-24000-trucks-of-maize-supply/
 - https://businessday.ng/news/article/exclusive-plateau-farmers-raise-alarm-over-inadequate-rainfall-threatening-crops-yields/
 
+### AFAN leadership and governance caution
+
+BusinessDay reported on 3 March 2026 that John Wuyep was chairman of the AFAN Plateau State chapter and described the effects of insecurity on farmers in areas including Bokkos. This is useful recent evidence of a publicly identified chapter representative, but it does not by itself establish current authority to approve a partnership or convene maize farmers.
+
+AFAN has also experienced nationally reported leadership disputes. BusinessDay reported calls for unity in August 2025, while reporting in 2026 continued to describe harmonisation efforts. Before relying on AFAN as an introduction route, verify the current national and Plateau chapter leadership, the authority chain, and which recognised structure can validly represent the relevant members.
+
+**Assessment:** AFAN Plateau is a relevant lead with a current public reference, but its governance and authority must be confirmed before it is treated as a distribution partner.
+
+Sources:
+- https://businessday.ng/news/article/plateau-businesses-crippled-on-insecurity/
+- https://businessday.ng/agriculture/article/afan-pushes-for-unity-calls-for-dialogue-with-faction-group/
+- https://pmnewsnigeria.com/2026/04/14/afan-warns-farmers-against-rivalry-urges-unity-for-progress-nationwide/
+
+### All Farmers Plateau Multi-Purpose Cooperative Society
+
+The targeted search did not establish reliable, current evidence of this cooperative's active legal status, leadership, maize membership, operating locations or capacity to coordinate a pilot. A business-directory listing or historical mention is not sufficient qualification.
+
+**Assessment:** Keep as an unverified discovery lead only. Do not contact it or treat it as an active network until its identity, registration, current officers and member activity are independently confirmed.
+
 ## 6. Provider implications
 
 Keep all four providers in the comparison; their roles differ.
