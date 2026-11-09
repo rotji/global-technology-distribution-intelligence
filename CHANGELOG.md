@@ -2,6 +2,16 @@
 
 All meaningful project-level research and documentation changes are recorded here.
 
+## 2026-11-09 — Nigeria agriculture provider and use-case evaluation
+
+- Added a focused comparison of Farmonaut, EOSDA, Cropin and OneSoil against four proposed Nigerian market use cases: cooperative field monitoring, agronomist-led scouting, aggregator/outgrower supply visibility, and lender/insurer programme monitoring.
+- Distinguished technical fit from commercial accessibility and zero-capital eligibility.
+- Identified Cropin as the first provider to qualify for institutional/aggregator workflows, Farmonaut as the first to qualify for a low-capital referral route, and OneSoil as the first to evaluate for agronomist-led scouting; EOSDA remains a technical alternative but its published reseller model requires prepaid hectares.
+- Used Nigeria's NADF AgGrow/FISP programme only as contextual evidence that organised grower programmes and maize, rice, cassava and soybean value chains are relevant; no sales lead or endorsement is inferred.
+- Recorded common technical and commercial questions, network validation steps, decision gates and research limitations.
+- No provider or network was contacted. No Nigerian model performance, partner eligibility, commercial terms, customer demand or partnership was confirmed.
+- Google Sheets was not directly edited in this session; its existing IDs and records should be preserved when mirroring the new findings.
+
 ## 2026-11-08 — Repository foundation and structured register
 
 - Created the initial project documentation structure.
