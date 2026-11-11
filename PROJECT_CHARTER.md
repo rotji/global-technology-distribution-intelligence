@@ -42,7 +42,7 @@ Build an evidence-backed intelligence base linking:
 
 Research pathways are provisional applications of the parent mission, not permanent project boundaries. Initial work has included Farmonaut, agriculture and mining technology, Nigerian distribution networks and Plateau agriculture ecosystem exploration.
 
-The Plateau agriculture exploration is one practical pathway for understanding a real economic and institutional environment. It should not be reduced to maize, formal cooperatives, one community, or one organisation. Other locations and sectors may become relevant as discoveries justify them.
+The Plateau research has an explicit internal hierarchy: **Plateau State Economic & Opportunity Discovery** is the state-level parent scope, and sector opportunity explorations are child pathways beneath it. **Plateau Agriculture Opportunity** is the first child pathway. Healthcare, mining, commerce and retail, transport and logistics, education, tourism, infrastructure and other sectors may become separate children when justified by discoveries and research needs. The existence of a proposed future pathway does not mean it has been researched or that an opportunity has been established.
 
 ## Operating principles
 
