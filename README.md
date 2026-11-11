@@ -57,6 +57,9 @@ Capabilities and partner-programme descriptions are preliminary and require dire
 
 ## Project records
 
+- [Master project context and handover](docs/MASTER_PROJECT_CONTEXT_AND_HANDOVER.md) — parent-project history, principles, branches, decisions and continuation instructions.
+- [Current project state](docs/CURRENT_PROJECT_STATE.md) — concise operational continuation point.
+
 - [Project charter](PROJECT_CHARTER.md)
 - [Research principles](RESEARCH_PRINCIPLES.md)
 - [Changelog](CHANGELOG.md)
