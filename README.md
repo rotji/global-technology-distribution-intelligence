@@ -2,77 +2,114 @@
 
 ## Mission
 
-Identify valuable technology companies, zero-capital partnership opportunities, and existing distribution networks that can connect useful technology solutions to markets in Nigeria and beyond.
+Discover and evaluate opportunities to connect real-world needs, useful existing technologies and services, capable organisations, commercial relationships, and routes to market in Nigeria and beyond.
 
-The project investigates how to build mutually beneficial commercial relationships with technology providers and the organisations or people who already possess customer trust, market access, professional credibility, and distribution capacity.
+The project builds an evidence-backed understanding of economic environments and the people, institutions, businesses, technologies, resources and networks operating within them. It looks for practical ways to create value by connecting what already exists with needs that are not being adequately met.
 
-## What we are exploring
+Technology distribution and partnership development are important routes to value creation, but they are not the entire mission. Research may lead to a referral or distribution relationship, implementation or integration work, a local service partnership, institutional adoption, or the identification of a genuine unresolved gap.
 
-- Technology companies with useful products and demonstrable customer problems solved.
-- Affiliate, referral, reseller, channel, strategic, and institutional partnership models.
-- Existing distribution networks: associations, cooperatives, federations, distributors, aggregators, consultants, professional bodies, institutions, agencies, and specialist communities.
-- Opportunities that can begin without upfront capital, mandatory purchases, inventory, or paid certification.
-- Evidence-backed ways to connect a technology provider to a relevant market through a trusted network.
+## Governing approach
 
-## Strategic principle
+> Understand the environment before prescribing a solution. Explore broadly before committing narrowly. Investigate existing solutions and commercial routes before considering building anything.
 
-> Do not distribute products by chasing individual customers when an existing network can distribute them more effectively. Find the people and institutions that already control trust, access, and relationships; establish mutually beneficial partnerships with them; and use those networks to reach the market.
+Do not assume that the first sector, location, community, organisation, customer group or provider examined is the permanent centre of the project. Research directions are provisional; the parent mission remains broad.
 
-This is a distribution strategy, not a pyramid or multi-level marketing model. Network size alone does not prove value; actual relevance, trust, access, and activation matter.
+## What the project investigates
 
-## Current starting point
+- Geographies, communities, sectors, value chains and economic activities.
+- Problems, unmet needs, existing practices, capabilities, resources and constraints.
+- Businesses, institutions, public programmes, associations, informal and formal organisations, and other ecosystem participants.
+- Existing technology providers, service operators, startups, substitutes and complementary solutions.
+- Commercial models, implementation and integration opportunities, referrals, partnerships and distribution networks.
+- Market access, trust, decision-making authority, operational capacity and the incentives of relevant participants.
+- Opportunities that can be explored within the project's zero-upfront-capital constraint.
 
-Farmonaut is the initial technology-provider case study, with agriculture and mining considered as separate opportunity tracks. The first Nigerian network-mapping leads include:
+## Research process
 
-- **Agriculture:** Coalition of Farmers Association for Food Security in Nigeria (COA-FARMERS), National Agricultural Mechanization Cooperative of Nigeria (NAMCON), All Farmers Association of Nigeria (AFAN), and Plateau Commodity Market Company (PLACOM).
-- **Mining:** Miners Association of Nigeria (MAN), Nigerian Society of Mining Engineers (NSME), Nigerian Mining and Geosciences Society (NMGS), and Council of Nigerian Mining Engineers and Geoscientists (COMEG).
+1. **Explore broadly:** map relevant places, sectors, actors, activities, needs, resources and existing arrangements without prematurely choosing a winner.
+2. **Record discoveries:** preserve dated evidence, sources, confidence, unknowns and relationships.
+3. **Compare:** assess findings across locations, sectors, actors and possible use cases before prioritising.
+4. **Understand the problem:** identify who experiences it, how it is currently handled, its consequences and who might pay or authorise a response.
+5. **Map existing solutions:** investigate established providers, startups, technologies and services before proposing something new.
+6. **Identify routes to value:** examine partnerships, implementation, integration, distribution, institutional access and other feasible commercial relationships.
+7. **Verify and decide:** test technical fit, demand, authority, economics, eligibility, operational requirements and risks.
+8. **Go deeper when justified:** design a bounded validation or pilot only when the evidence supports it.
 
-These are research leads, not confirmed partners. Their current status, authority, reach, decision-makers, and ability to activate a distribution relationship must be independently verified.
+The broad-first approach is a default, not a ban on urgent or unusually promising deep dives. Any early deep dive should have a recorded reason.
 
-## Working approach
+## Important strategic principles
 
-1. Understand the technology, its real buyer, and the problem it solves.
-2. Establish the provider's commercial partnership terms and market eligibility.
-3. Map the industry's existing distribution ecosystem.
-4. Identify credible entry points with relevant customer access.
-5. Design a value exchange for the provider, network owner, end customer, and project.
-6. Verify actual participation and activation rather than relying on claimed membership or audience size.
-7. Record evidence, confidence, decisions, and unresolved questions.
+- **Existing solutions before building:** first investigate whether an established provider or emerging startup already addresses the need. Prefer partnership, integration, implementation, distribution or promotion where these create value. Consider building only when a genuine gap remains and a concrete customer request or incentive justifies it.
+- **Compare before selecting:** do not make one provider or organisation foundational merely because it was discovered first. Compare relevant alternatives and record concentration risk.
+- **Network leverage:** where a relevant existing network can credibly reach customers or users, assess it as a route to market. Nominal membership or audience size is not proof of activation.
+- **Zero-capital discipline:** prioritise routes without upfront fees, compulsory purchases, inventory, paid licences, equipment or mandatory paid certification. Record other hidden costs and constraints.
+- **No assumed authority or partnership:** a listed organisation, public contact detail or provider programme is a research lead, not an agreement.
 
-## Zero-capital filter
+## Initial research pathways
 
-Prioritise opportunities that allow an individual or small independent partner to participate without registration fees, compulsory purchases, inventory, paid licences, equipment, or mandatory paid certification. Confirm Nigerian eligibility, commission or margin, payout method, thresholds, attribution, and permitted distribution arrangements in writing.
+The initial repository work examined Farmonaut, agriculture and mining technology, Nigerian distribution networks, and alternatives to individual providers. These are historical starting points and active research records, not permanent boundaries for the project.
 
-## Research status language
+The Plateau agriculture exploration is one practical pathway within the parent mission. It is intended to understand Plateau's wider economic, community, agricultural, institutional and service ecosystem—not merely maize, cooperatives or one selected community. The Plateau research area maintains a broad discovery register; the existing maize pilot-selection document remains a bounded historical hypothesis, not a mandate for all future research.
 
-Use explicit statuses such as **Unverified lead**, **Evidence found**, **Provider-confirmed**, **Network-confirmed**, **Qualified**, **Deferred**, and **Rejected**. Distinguish provider self-reported claims from independent evidence and from project hypotheses.
+## Repository structure
 
-## Provider diversification
+| Location | Responsibility |
+|---|---|
+| `PROJECT_CHARTER.md` | Durable purpose, scope, boundaries and success criteria |
+| `RESEARCH_PRINCIPLES.md` | Governing rules for all research and continuation |
+| `docs/methodology/` | Reusable methods for discovery, evidence, providers and networks |
+| `docs/strategy/` | Commercial and operating strategies, including distribution and zero-capital routes |
+| `docs/research/` | Dated evidence, profiles, comparisons and geographic/sector discoveries |
+| `decisions/` | Decisions, status, rationale and unresolved gates |
+| `CHANGELOG.md` | Repository-level record of meaningful documentation changes |
+| Companion workbook | Structured register and cross-reference IDs maintained separately |
 
-Farmonaut is the initial case study, not an exclusive provider. A preliminary comparison of agriculture alternatives (EOSDA, Cropin, OneSoil) and adjacent geospatial platforms (Aspectum, CARTO), plus mining alternatives and adjacent technologies (Madini and further specialist candidates), is maintained in [Technology platform alternatives: agriculture and mining](docs/research/platform-alternatives/agriculture-and-mining-platforms.md).
+### Key documents
 
-The focused Nigeria agriculture comparison now evaluates the four providers against group field monitoring, agronomist-led scouting, aggregator/outgrower supply visibility, and institutional portfolio monitoring. It also separates technical fit from zero-capital partnership accessibility: [Nigeria agriculture provider and use-case comparison](docs/research/nigeria/agriculture-provider-use-case-comparison.md).
-
-Capabilities and partner-programme descriptions are preliminary and require direct technical and commercial verification.
-
-## Project records
-
-- [Master project context and handover](docs/MASTER_PROJECT_CONTEXT_AND_HANDOVER.md) — parent-project history, principles, branches, decisions and continuation instructions.
-- [Current project state](docs/CURRENT_PROJECT_STATE.md) — concise operational continuation point.
-
+**Governance**
 - [Project charter](PROJECT_CHARTER.md)
 - [Research principles](RESEARCH_PRINCIPLES.md)
+- [Opportunity decisions](decisions/opportunity-decisions.md)
 - [Changelog](CHANGELOG.md)
+
+**Methodologies**
+- [Opportunity discovery methodology](docs/methodology/opportunity-discovery-methodology.md)
+- [Network intelligence methodology](docs/methodology/network-intelligence-methodology.md)
+- [Technology company assessment](docs/methodology/technology-company-assessment.md)
+- [Evidence and verification](docs/methodology/evidence-and-verification.md)
+
+**Strategies**
 - [Distribution network strategy](docs/strategy/distribution-network-strategy.md)
 - [Partnership models](docs/strategy/partnership-models.md)
 - [Zero-capital approach](docs/strategy/zero-capital-approach.md)
-- [Technology company assessment](docs/methodology/technology-company-assessment.md)
-- [Network intelligence methodology](docs/methodology/network-intelligence-methodology.md)
-- [Evidence and verification](docs/methodology/evidence-and-verification.md)
-- [Farmonaut case study](docs/research/farmonaut/company-profile.md)
+
+**Research**
+- [Plateau research area](docs/research/nigeria/plateau/README.md)
+- [Plateau LGA discovery register](docs/research/nigeria/plateau/lga-discovery-register.md)
+- [Plateau maize pilot market selection](docs/research/nigeria/plateau-maize-pilot-market-selection.md)
 - [Nigeria agriculture networks](docs/research/nigeria/agriculture-networks.md)
 - [Nigeria mining networks](docs/research/nigeria/mining-networks.md)
-- [Opportunity decisions](decisions/opportunity-decisions.md)
+- [Nigeria agriculture provider and use-case comparison](docs/research/nigeria/agriculture-provider-use-case-comparison.md)
+- [Technology platform alternatives: agriculture and mining](docs/research/platform-alternatives/agriculture-and-mining-platforms.md)
+- [Farmonaut case study](docs/research/farmonaut/company-profile.md)
+
+## How project continuity is maintained
+
+There is deliberately no manually maintained "current state" or handover document treated as authoritative. Such snapshots become stale unless every relevant change is reflected in them.
+
+To continue work:
+1. Read this README, the charter and research principles for the governing context.
+2. Read the relevant decision records and the specific dated research records for the topic being continued.
+3. Check the changelog for repository changes since the relevant research record.
+4. Verify the actual contents and dates of records before claiming that something is current or complete.
+5. Update the source research record and decision record when new evidence changes a finding; update the changelog when repository documentation changes.
+6. Do not repeat completed work unless new evidence, material change, contradiction or necessary validation justifies revisiting it.
+
+The changelog records repository edits; it is not a substitute for research evidence or a guarantee that every external fact remains current. If a status cannot be established from the underlying records, mark it unknown and investigate rather than inventing a current state.
+
+## Research status language
+
+Use explicit statuses such as **Unverified lead**, **Evidence found**, **Provider-confirmed**, **Network-confirmed**, **Qualified**, **Conditional**, **Deferred** and **Rejected**. Distinguish provider or organisation self-reports from independent evidence and project hypotheses.
 
 ## Structured register
 
@@ -89,8 +126,8 @@ A companion workbook is used for structured records and cross-reference IDs. Its
 9. Opportunity Scorecard
 10. Activity Log
 
-The current workbook is maintained separately in Google Sheets by the user. Keep its existing IDs and cross-references intact; mirror meaningful provider-status and verification changes there. A live automated synchronisation with this repository is not configured.
+The workbook is maintained separately by the user. Keep existing IDs and cross-references intact; mirror meaningful status and verification changes when the workbook is accessible. Automated synchronisation with this repository is not configured. Do not claim that the workbook was updated unless that action was actually completed.
 
 ## Important limitations
 
-This repository records research and planning. It does not imply that any provider has approved a partnership, that any commission is guaranteed, or that any listed organisation has agreed to distribute a product. Verify all commercial terms and organisational details before acting.
+This repository records research and planning. It does not imply that any provider has approved a partnership, that any commission is guaranteed, that any listed organisation has agreed to distribute a product, or that a customer need has been validated merely because it appears in a research hypothesis. Verify material claims before acting.
