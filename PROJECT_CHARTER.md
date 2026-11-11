@@ -6,70 +6,103 @@ Global Technology & Distribution Network Intelligence
 
 ## Purpose
 
-To identify useful technology providers, commercially viable partnership routes, and trusted distribution networks that can connect technology solutions with relevant markets in Nigeria and beyond.
+Discover and evaluate opportunities to connect real-world needs, useful existing technologies and services, capable organisations, commercial relationships, and routes to market in Nigeria and beyond.
+
+The project develops an evidence-backed understanding of economic environments and identifies practical ways to create value from what already exists. It is not limited to affiliate marketing, technology distribution, one sector, one geography or one provider.
 
 ## Problem
 
-Many technology providers need access to customers, while many potential customers are difficult and expensive to reach individually. Conventional affiliate marketing often starts with a person sharing a link and pursuing individual buyers. This project investigates a more leveraged alternative: work with existing organisations and intermediaries that already have relevant relationships, trust, and distribution capacity.
+Useful technologies and services do not automatically reach the people and organisations that could benefit from them. At the same time, communities, businesses and institutions may face problems that are poorly understood, inadequately served or disconnected from available solutions.
+
+A credible opportunity may therefore begin with a real-world need, an existing solution, a capable intermediary, a market-access barrier, an institutional requirement or an overlooked commercial relationship. The project investigates these elements before prescribing a response.
 
 ## Mission
 
-Build an evidence-backed intelligence base linking technology, commercial partnership opportunities, and existing routes to market.
+Build an evidence-backed intelligence base linking:
+- Places, sectors, communities and economic activities.
+- Needs, problems, capabilities, resources and constraints.
+- Businesses, institutions, programmes, organisations and other ecosystem participants.
+- Existing technologies, products, services and solution providers.
+- Commercial relationships, implementation routes, partnerships and distribution networks.
+- Verified opportunities and the decisions required to pursue, defer or reject them.
 
-## Initial scope
+## Scope
 
-- Technology-provider discovery and assessment.
-- Affiliate, referral, reseller, channel, and strategic partnership research.
-- Distribution-network and institutional ecosystem mapping.
-- Nigerian market access, with international providers considered where relevant.
-- Zero-upfront-capital entry as the initial constraint.
-- Documented decisions and ongoing verification.
+- Broad discovery across geographies, sectors, value chains, communities and economic environments.
+- Mapping of relevant actors, institutions, businesses, networks, resources, infrastructure and market relationships.
+- Identification and assessment of problems, unmet needs, existing practices and possible buyers or budget owners.
+- Discovery and comparison of existing technology providers, service operators, startups, substitutes and complementary solutions.
+- Research into affiliate, referral, reseller, channel, strategic, institutional, implementation, integration and other partnership models.
+- Distribution-network and institutional ecosystem intelligence where it is relevant to a discovered need or market.
+- Nigerian market access, with international providers and markets considered where relevant.
+- Zero-upfront-capital entry as the current operating constraint.
+- Dated research records, transparent evidence, decisions and ongoing verification.
+
+## Research pathways
+
+Research pathways are provisional applications of the parent mission, not permanent project boundaries. Initial work has included Farmonaut, agriculture and mining technology, Nigerian distribution networks and Plateau agriculture ecosystem exploration.
+
+The Plateau agriculture exploration is one practical pathway for understanding a real economic and institutional environment. It should not be reduced to maize, formal cooperatives, one community, or one organisation. Other locations and sectors may become relevant as discoveries justify them.
+
+## Operating principles
+
+1. Understand the environment and the problem before selecting a solution.
+2. Explore broadly before committing narrowly; compare discoveries before prioritising.
+3. Investigate existing providers and solutions before considering new development.
+4. Prefer partnership, integration, implementation, distribution or promotion when existing solutions can meet the need.
+5. Consider building only when a genuine gap remains and a concrete customer request or incentive justifies it.
+6. Compare providers and alternatives; do not become dependent on one provider without documenting why.
+7. Verify evidence, authority, demand, economics, eligibility and operational feasibility.
+8. Preserve the zero-upfront-capital constraint unless the user explicitly changes it.
+9. Do not treat a research lead as a partner, a hypothesis as demand, or nominal reach as activation.
+10. No external outreach or paid commitment without the user's explicit authorisation.
 
 ## Out of scope for the initial research phase
 
-- Building a software platform.
-- Purchasing inventory, licences, or equipment.
+- Building a software platform merely because a technical possibility exists.
+- Purchasing inventory, licences, equipment or other capital-intensive commitments.
 - Paying to join programmes or networks.
 - Unverified mass outreach or indiscriminate referral-link promotion.
 - Treating claimed network membership or reach as proof of active distribution.
 - Treating this work as a multi-level marketing or pyramid model.
+- Presenting unverified market hypotheses, projected revenue or provider claims as established facts.
 
-## Stakeholders in a successful arrangement
+A genuine gap may eventually justify a build or pilot, but only after existing solutions, customer demand, incentives, feasibility and the user's approval have been examined.
 
-A viable arrangement should create clear value for:
-1. The technology provider.
-2. The network owner or intermediary.
-3. The end customer or member.
-4. The project operator coordinating access and distribution.
+## Stakeholders and value
 
-## Initial case study
+Depending on the opportunity, relevant participants may include:
+- People, communities, businesses or institutions experiencing the need.
+- Technology providers and service operators.
+- Network owners, associations, intermediaries and local implementation partners.
+- Funders, buyers, budget owners, regulators or public programmes.
+- The project operator coordinating research and a possible commercial relationship.
 
-Farmonaut, examined in two distinct tracks:
-- Agriculture technology and farmer/agribusiness access.
-- Mining/geospatial intelligence and mining-sector access.
-
-Do not combine their economics, buyers, or partner terms without evidence.
+A viable arrangement must explain the value, responsibilities, incentives, risks and authority of the participants who would actually be involved. Not every opportunity requires all stakeholder categories.
 
 ## Deliverables
 
-- Technology company profiles.
-- Partnership opportunity records.
-- Distribution network profiles.
-- Company-to-network match assessments.
-- Verification evidence and contact routes.
-- Opportunity decisions and change history.
-- A structured spreadsheet register maintained alongside this repository.
+- Geographic, sector and ecosystem discovery records.
+- Problem, need and opportunity profiles.
+- Organisation, institution and network profiles.
+- Technology and service-provider profiles.
+- Existing-solution and alternative comparisons.
+- Partnership, implementation and distribution assessments.
+- Verification evidence and source registers.
+- Opportunity decisions, unresolved questions and change history.
+- A structured companion workbook maintained alongside this repository.
 
 ## Success criteria for research
 
-- Commercial terms are evidenced and confirmed by the provider.
-- Participation is genuinely accessible under the zero-capital constraint.
-- The buyer and use case are clear.
-- A relevant network or direct access path is identified.
-- The intermediary has real trust, access, and capacity to activate.
-- A mutually beneficial distribution proposition can be articulated.
-- Unknowns, risks, and decision gates are recorded transparently.
+- The environment and relevant problem are understood with evidence.
+- Existing solutions and alternatives have been investigated.
+- The user, buyer, budget owner or decision authority is identified where possible.
+- A practical route to value is articulated.
+- Technical, commercial, geographic and operational constraints are transparent.
+- Zero-capital compatibility is assessed where relevant.
+- Risks, unknowns, confidence and decision gates are recorded.
+- No partnership, demand, revenue or activation is represented as confirmed without evidence.
 
 ## Operating rule
 
-Research first, validate second, make a decision third, and only then consider outreach or execution. No assumed partnership or revenue should be presented as fact.
+Explore and document first, validate material claims second, compare alternatives third, make a reasoned decision fourth, and only then consider outreach or execution. No assumed partnership, customer demand or revenue should be presented as fact.
