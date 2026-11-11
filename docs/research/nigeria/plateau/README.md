@@ -1,16 +1,29 @@
-# Plateau State Research Area
+# Plateau State Economic & Opportunity Discovery
 
-## Purpose
+## Parent scope
 
-This research area applies the parent project's opportunity-discovery mission to Plateau State. It aims to understand the state's varied communities, economic activities, value chains, institutions, businesses, services, infrastructure, resources, technologies and market relationships, then identify and compare evidence-backed opportunities.
+This is the state-level parent research area for understanding Plateau State's economy and discovering evidence-backed opportunities across its communities, sectors, value chains, institutions, businesses, services, infrastructure, resources, technologies and market relationships.
 
-This is one pathway within the wider Global Technology & Distribution Network Intelligence project. It is not a separate project and does not define the permanent scope of the parent mission.
+It sits within the wider Global Technology & Distribution Network Intelligence project. It is a geographic research programme, not a separate project and not a commitment to any single sector or business model.
 
-## Research posture
+## Research hierarchy
 
-Explore broadly across Plateau before committing to one community, LGA, crop, organisation, technology or business model. Agriculture is an important research pathway, but the investigation must remain open to other economic activities and cross-sector relationships.
+The state economy is the parent scope. Sector-specific opportunity explorations are child research pathways beneath it.
+
+| Level | Research area | Scope and status |
+|---|---|---|
+| Parent | **Plateau State Economic & Opportunity Discovery** | Broad understanding of the state's economic and institutional environment |
+| Child | [Plateau Agriculture Opportunity](agriculture/README.md) | Agriculture and its related value chains, actors, needs, resources and solutions; initial child pathway |
+| Future child pathways | Healthcare, mining, commerce and retail, transport and logistics, education, tourism, infrastructure and other sectors | To be opened when discoveries and research needs justify them; not yet separate research programmes |
+
+The future sectors listed here are possibilities, not claims that they have been researched or that opportunities are established.
+
+## Governing research posture
+
+Explore broadly across Plateau before committing to one community, LGA, sector, crop, organisation, technology or business model. Do not let the first research pathway become the permanent centre of the state-level investigation.
 
 Do not assume:
+- That agriculture is the whole Plateau economy.
 - That maize or any single crop is the central opportunity.
 - That formal cooperatives exist or are the best access route in every community.
 - That Fadan Fobur or any other starting location is the most promising.
@@ -21,29 +34,22 @@ Informal groups, independent businesses, traders, service providers, local exper
 
 ## Geographic coverage
 
-Use the 17 Local Government Areas (LGAs) of Plateau State as the initial geographic coverage frame. The discovery register tracks research coverage; it does not imply that each LGA has been comprehensively investigated.
+Use the 17 Local Government Areas (LGAs) of Plateau State as the initial geographic coverage frame. The [LGA discovery register](lga-discovery-register.md) tracks geographic research coverage; it does not imply that each LGA has been comprehensively investigated.
 
-## Research records
+Geographic coverage and sector research are complementary dimensions. A sector finding may span multiple LGAs, while an LGA may contain activity across many sectors. Link records rather than forcing all findings into only one geographic or sector folder.
 
-- [LGA discovery register](lga-discovery-register.md) — coverage and open questions across all 17 LGAs.
-- [Plateau maize pilot market selection](../plateau-maize-pilot-market-selection.md) — a dated, bounded maize-market hypothesis from an earlier research stage. It is not a permanent strategy or a directive to prioritise maize in every LGA.
-
-Create additional thematic or location-specific records when discoveries justify them. Avoid creating empty files for every possible sector or community. Prefer linking to an existing state-wide, sector or provider record where that prevents duplication.
-
-## Discovery dimensions
+## State-level discovery dimensions
 
 Consider, where relevant:
-- Agriculture, livestock, processing, trade and other economic activities.
-- Mining, quarrying and related services, subject to safety, legal and environmental context.
-- Retail, health, education, construction, transport, logistics, tourism and other services.
-- Local businesses, producers, buyers, suppliers, contractors and service operators.
+- Economic activities, livelihoods, value chains and trade flows.
+- Businesses, producers, buyers, suppliers, contractors and service operators.
 - Public institutions, programmes, professional bodies and community structures.
 - Roads, energy, water, storage, communications and other infrastructure.
 - Skills, equipment, local materials, technical capabilities and repair/fabrication capacity.
 - Existing technology adoption, local solutions and unmet operational needs.
 - Market access, financing, procurement, information and coordination relationships.
 
-This is a discovery prompt, not a checklist that every location must satisfy.
+Sector-specific details belong in the relevant child research area or existing cross-state research record. This parent page should remain an index and governance point, not duplicate every sector's evidence.
 
 ## Evidence and safety
 
