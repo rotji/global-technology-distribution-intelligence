@@ -12,7 +12,8 @@ This document records decisions and their evidence status to avoid repeating rej
 | Treat Farmonaut agriculture and mining separately | Active | Different products, buyers, use cases, and potentially different programme terms |
 | Maintain detailed GitHub records and a structured spreadsheet register | Active | Preserve evidence and make the opportunity portfolio comparable |
 | Apply broad-first opportunity discovery across locations and subjects | Active | Avoid allowing an initial sector, location, provider or organisation to become the permanent centre before comparative evidence exists |
-| Treat Plateau agriculture as one pathway within the parent mission | Active | Use the Plateau research to understand a wider economic and institutional environment, not only maize or formal cooperatives |
+| Treat Plateau State Economic & Opportunity Discovery as the parent geographic research area | Active | The parent scope is the wider Plateau State economy; sector investigations are child pathways beneath it |
+| Establish Plateau Agriculture Opportunity as the first sector child | Active | Agriculture is an initial research pathway, not the whole Plateau economy; other sectors may be added when justified |
 | Investigate existing solutions before considering a build | Active | Prefer viable existing providers, partnerships, integration, implementation or distribution; build only after a genuine gap and concrete incentive are established |
 
 ## Research architecture decisions
