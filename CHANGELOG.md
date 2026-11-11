@@ -37,3 +37,13 @@ All meaningful project-level research and documentation changes are recorded her
 - Added a governing principle: never make a single technology provider the foundation of a market opportunity where credible alternatives exist.
 - Defined comparison requirements for direct substitutes, adjacent and complementary providers, including technical fit and partnership accessibility.
 - Clarified that researching multiple providers does not mean partnerships are established, and that concentration risk must be recorded when alternatives cannot be found.
+
+
+## 2026-11-11 — Parent-project continuity handover
+
+- Audited the complete visible default-branch repository tree and the project charter, research principles, decisions, strategy, methodology and research records.
+- Added a parent-level master context and handover covering the overall project, provider and network strategy, agriculture and mining tracks, provider diversification, Plateau maize research, Fadan Fobur agriculture ecosystem exploration, and PLACOM market-system research.
+- Added a concise current-state document with branch-specific continuation points.
+- Linked both continuity documents from the README.
+- Distinguished repository-backed records from additional chat-context findings and unresolved claims.
+- No external outreach, provider contact, network contact, registration, payment or Google Sheets update was performed.
