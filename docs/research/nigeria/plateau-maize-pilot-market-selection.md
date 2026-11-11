@@ -4,7 +4,9 @@
 **Status:** Preliminary market-selection decision. Evidence supports a research focus, not a confirmed customer, network partner or commercial opportunity.  
 **Scope selected:** Maize growers in Plateau State, with farmer cooperatives and organised producer groups as the initial distribution hypothesis.
 
-## 1. Decision
+> **Scope clarification added 2026-11-11:** This is a historical, bounded research hypothesis from the initial Plateau agriculture investigation. It is not a permanent project strategy, a decision to prioritise maize across Plateau, or a mandate to select a cooperative or pilot location. The parent project now uses broad-first discovery across Plateau's 17 LGAs and across economic activities, communities, institutions and services. Keep this record as evidence of the earlier maize hypothesis; compare it with other discoveries before deciding whether to revisit it.
+
+## 1. Historical selection rationale
 
 Use **maize growers in Plateau State** as the first bounded market to investigate.
 
@@ -193,6 +195,6 @@ If any essential gate fails, defer or change the use case. Do not force a provid
 **Commercial terms:** not confirmed.  
 **Outreach:** not authorised or initiated.
 
-### Next task
-Conduct a focused verification of the All Farmers Plateau Multi-Purpose Cooperative and AFAN Plateau chapter, then identify a safe and accessible maize-growing cluster with an active organisation. This is more valuable than adding more technology providers at this stage.
+### Historical next task (not an active project-wide instruction)
+The earlier research proposed verifying the All Farmers Plateau Multi-Purpose Cooperative and AFAN Plateau chapter and identifying a safe, accessible maize-growing cluster. This remains a possible bounded follow-up only if comparative Plateau discovery later shows that maize and these organisations warrant priority. It does not override the broader LGA and cross-sector discovery approach.
 
