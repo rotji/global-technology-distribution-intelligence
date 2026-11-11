@@ -39,11 +39,12 @@ All meaningful project-level research and documentation changes are recorded her
 - Clarified that researching multiple providers does not mean partnerships are established, and that concentration risk must be recorded when alternatives cannot be found.
 
 
-## 2026-11-11 — Parent-project continuity handover
+## 2026-11-11 — Repository structure and broad opportunity-discovery methodology
 
-- Audited the complete visible default-branch repository tree and the project charter, research principles, decisions, strategy, methodology and research records.
-- Added a parent-level master context and handover covering the overall project, provider and network strategy, agriculture and mining tracks, provider diversification, Plateau maize research, Fadan Fobur agriculture ecosystem exploration, and PLACOM market-system research.
-- Added a concise current-state document with branch-specific continuation points.
-- Linked both continuity documents from the README.
-- Distinguished repository-backed records from additional chat-context findings and unresolved claims.
+- Retired and deleted the manually maintained `docs/MASTER_PROJECT_CONTEXT_AND_HANDOVER.md` and `docs/CURRENT_PROJECT_STATE.md`; these snapshots could become stale and are no longer treated as authoritative.
+- Reworked the README, charter and research principles to define the parent mission as broad, evidence-led opportunity discovery and commercial intelligence rather than only technology distribution or affiliate partnerships.
+- Added `docs/methodology/opportunity-discovery-methodology.md` as the parent discovery process and clarified network intelligence as a specialised method used when relevant.
+- Added a Plateau research area and a 17-LGA discovery register. The register is a coverage framework; unassessed entries do not imply absence of activity or opportunity.
+- Clarified that Plateau agriculture is one pathway within the parent mission and that the earlier maize pilot selection is a bounded historical hypothesis, not a permanent strategy.
+- Updated project-level opportunity decisions to reflect broad-first exploration, existing solutions before building, and research-record-based continuity.
 - No external outreach, provider contact, network contact, registration, payment or Google Sheets update was performed.
