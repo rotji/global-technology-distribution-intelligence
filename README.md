@@ -49,7 +49,13 @@ The broad-first approach is a default, not a ban on urgent or unusually promisin
 
 The initial repository work examined Farmonaut, agriculture and mining technology, Nigerian distribution networks, and alternatives to individual providers. These are historical starting points and active research records, not permanent boundaries for the project.
 
-The Plateau agriculture exploration is one practical pathway within the parent mission. It is intended to understand Plateau's wider economic, community, agricultural, institutional and service ecosystem—not merely maize, cooperatives or one selected community. The Plateau research area maintains a broad discovery register; the existing maize pilot-selection document remains a bounded historical hypothesis, not a mandate for all future research.
+### Plateau State Economic & Opportunity Discovery
+
+Plateau is a geographic research programme under the parent project. Its parent scope is the **Plateau State economy and opportunity landscape**: the state's communities, economic activities, sectors, value chains, institutions, businesses, services, infrastructure, resources, technologies and market relationships.
+
+Sector explorations sit beneath this state-level parent. **Plateau Agriculture Opportunity** is one child research pathway. Healthcare, mining, commerce and retail, transport and logistics, education, tourism, infrastructure and other sectors may be explored as separate child pathways when research justifies them. Agriculture is not the parent identity, and maize is only a bounded subject within agriculture.
+
+The LGA discovery register provides a geographic coverage view across the state. Sector records hold detailed evidence for their respective subjects, with links between geographic and sector records where relevant.
 
 ## Repository structure
 
@@ -84,8 +90,9 @@ The Plateau agriculture exploration is one practical pathway within the parent m
 - [Zero-capital approach](docs/strategy/zero-capital-approach.md)
 
 **Research**
-- [Plateau research area](docs/research/nigeria/plateau/README.md)
+- [Plateau State Economic & Opportunity Discovery](docs/research/nigeria/plateau/README.md)
 - [Plateau LGA discovery register](docs/research/nigeria/plateau/lga-discovery-register.md)
+- [Plateau Agriculture Opportunity](docs/research/nigeria/plateau/agriculture/README.md)
 - [Plateau maize pilot market selection](docs/research/nigeria/plateau-maize-pilot-market-selection.md)
 - [Nigeria agriculture networks](docs/research/nigeria/agriculture-networks.md)
 - [Nigeria mining networks](docs/research/nigeria/mining-networks.md)
