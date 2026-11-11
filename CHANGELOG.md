@@ -2,6 +2,17 @@
 
 All meaningful project-level research and documentation changes are recorded here.
 
+## 2026-11-11 — Plateau State economic research hierarchy
+
+- Adopted **Plateau State Economic & Opportunity Discovery** as the parent name and scope for the Plateau geographic research programme.
+- Established the hierarchy explicitly: Plateau State economy is the parent; sector-specific opportunity explorations are child pathways.
+- Created **Plateau Agriculture Opportunity** as the first child research pathway, with its own README and a scope covering agriculture and related value chains.
+- Clarified that healthcare, mining, commerce and retail, transport and logistics, education, tourism, infrastructure and other sectors may be opened as future child pathways when discoveries justify them; they are not represented as already researched.
+- Kept the existing maize pilot-selection record as a bounded historical agriculture hypothesis, not the name or scope of the Plateau parent programme.
+- Updated the root README, project charter, Plateau parent README and opportunity decisions to reflect the hierarchy.
+- Retained the LGA discovery register as the geographic coverage dimension, complementary to sector-specific records.
+- No new sector findings, external outreach, provider contact, registration, payment, pilot commitment or spreadsheet update was made as part of this structural change.
+
 ## 2026-11-09 — Nigeria agriculture provider and use-case evaluation
 
 - Added a focused comparison of Farmonaut, EOSDA, Cropin and OneSoil against four proposed Nigerian market use cases: cooperative field monitoring, agronomist-led scouting, aggregator/outgrower supply visibility, and lender/insurer programme monitoring.
