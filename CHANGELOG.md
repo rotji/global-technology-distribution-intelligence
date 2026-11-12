@@ -2,6 +2,15 @@
 
 All meaningful project-level research and documentation changes are recorded here.
 
+## 2026-11-12 — Current-reality reconciliation on project resumption
+
+- Extended Principle 22 so resuming after a long pause requires both recovering the exact previous stopping point and reconciling previously documented information with present-day reality.
+- Required targeted revalidation of time-sensitive, operational, decision-critical or change-prone facts before using them in current recommendations or decisions.
+- Required current-status dates, clear marking of superseded/outdated/unknown information, explanation of material changes, and links to new evidence.
+- Required preservation of historical evidence and earlier conclusions rather than silently overwriting history; old findings remain part of the research record but must not be presented as current when their status has not been re-established.
+- This is a governing-process update only; no sector-specific factual findings were changed or added.
+
+
 ## 2026-11-12 — Long-term continuity and exact-resumption rule
 
 - Strengthened the project-wide no-repetition principle with a mandatory resume protocol for sessions that restart after any length of time, including weeks, months or years.
