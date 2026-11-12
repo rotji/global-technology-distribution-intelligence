@@ -2,6 +2,17 @@
 
 All meaningful project-level research and documentation changes are recorded here.
 
+## 2026-11-12 — Plateau Agriculture ecosystem architecture and evidence gate
+
+- Agreed and documented a broad ecosystem architecture for Plateau Agriculture Opportunity, extending beyond production and commodity value chains to include land and ecology; people and organisations; research institutions, laboratories and innovation; law, public policy and regulation; standards, testing and certification; knowledge, data and information networks; finance and risk; infrastructure and logistics; technology and service providers; markets, trade and adjacent systems.
+- Added explicit research coverage for universities, research institutes, agricultural stations, experimental farms, diagnostic and testing laboratories, scientific publications, research funding, technology transfer and commercialisation.
+- Added explicit coverage for laws, policies, regulatory instruments, standards, enforcement, public information, media, market intelligence, weather and disease information, geospatial data and other information networks.
+- Clarified that the architecture is a topic map and research framework, not a factual inventory or evidence that any listed entity, capability, programme or relationship exists in Plateau State.
+- Updated the Plateau Agriculture README to make the architecture its governing scope reference and to establish a strict repository documentation gate.
+- Added a project-wide research principle against using GitHub as a dumping ground for unverified leads. Unresolved matters remain in active research or temporary working notes; if repository continuity is necessary, document only the neutral question to investigate.
+- Strengthened the evidence-and-verification methodology to distinguish source-supported statements from independently corroborated operational facts, and to prevent announcements, targets, allocations, mandates or facility listings from being mistaken for implementation, disbursement, reach or capacity.
+- No new Plateau agricultural factual findings, unverified leads, institution claims, programme claims or opportunity claims were added. No external outreach or commitments were made.
+
 ## 2026-11-11 — Plateau State economic research hierarchy
 
 - Adopted **Plateau State Economic & Opportunity Discovery** as the parent name and scope for the Plateau geographic research programme.
@@ -23,7 +34,9 @@ All meaningful project-level research and documentation changes are recorded her
 - No provider or network was contacted. No Nigerian model performance, partner eligibility, commercial terms, customer demand or partnership was confirmed.
 - Google Sheets was not directly edited in this session; its existing IDs and records should be preserved when mirroring the new findings.
 
-- Follow-up source check identified EOSDA's provider-published Nigeria case study with Agroxchange Technology as an exclusive white-label partner. Updated EOSDA's Nigerian market-fit assessment while retaining the unresolved zero-capital/prepurchase concern.\n\n## 2026-11-08 — Repository foundation and structured register
+- Follow-up source check identified EOSDA's provider-published Nigeria case study with Agroxchange Technology as an exclusive white-label partner. Updated EOSDA's Nigerian market-fit assessment while retaining the unresolved zero-capital/prepurchase concern.
+
+## 2026-11-08 — Repository foundation and structured register
 
 - Created the initial project documentation structure.
 - Recorded the project's mission, scope, zero-capital constraint, and research-first operating model.
@@ -48,7 +61,6 @@ All meaningful project-level research and documentation changes are recorded her
 - Added a governing principle: never make a single technology provider the foundation of a market opportunity where credible alternatives exist.
 - Defined comparison requirements for direct substitutes, adjacent and complementary providers, including technical fit and partnership accessibility.
 - Clarified that researching multiple providers does not mean partnerships are established, and that concentration risk must be recorded when alternatives cannot be found.
-
 
 ## 2026-11-11 — Repository structure and broad opportunity-discovery methodology
 
