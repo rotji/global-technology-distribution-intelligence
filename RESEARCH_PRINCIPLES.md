@@ -74,7 +74,7 @@ The purpose is to reduce dependency, improve negotiating leverage, preserve cust
 Do not allow the first interesting discovery to determine the entire research direction. Explore relevant locations, sectors, communities, organisations, economic activities, technologies and commercial models broadly enough to understand the available landscape before concentrating effort.
 
 - Compare discoveries across relevant geographies and subject areas.
-- Do not assume that the first community, LGA, sector, crop, organisation, provider or customer group is the most important.
+- Do not assume that the first community, LGA, sector, crop, organisation, provider or customer is the most important.
 - Do not force findings into a preselected category such as a formal cooperative, a particular crop or a particular technology.
 - Use discovery registers to make coverage and gaps visible; an unresearched entry is not evidence that nothing exists there.
 - Broad-first is a default research discipline, not a reason to delay an urgent or unusually promising investigation. Record why an early deep dive is justified.
@@ -112,10 +112,25 @@ Detailed investigation, repeated verification, field research or pilot design sh
 
 ## 20. Research records, not snapshots, establish continuity
 
-Do not rely on a manually maintained current-state or handover document as the authoritative account of the project. Such summaries can become stale and conceal the underlying evidence.
+Do not rely on a manually maintained current-state or handover document as the authoritative account of the project. Such snapshots can become stale and conceal the underlying evidence.
 
 - Continue from dated research records, decision records, source registers and the actual repository contents.
 - Use the README as an index and orientation, the charter for purpose, principles for rules and changelog for repository edits.
 - A changelog entry does not prove an external fact is still current.
 - When status cannot be established from underlying records, mark it unknown and verify it.
 - Update the source record when a finding changes; do not merely overwrite history with a new unsupported summary.
+
+## 21. Keep the repository factual; do not dump unverified leads
+
+GitHub is the durable record of the project's governing principles, research architecture, verified evidence and reasoned decisions. It is not a parking lot for every interesting name, rumour, copied announcement, search result or speculative opportunity encountered during exploration.
+
+- It is acceptable to document **ecosystem principles, domain taxonomies, research topics, questions and methods** without claiming that a particular local entity or condition exists.
+- Add a factual claim only when a source directly supports the exact claim, including its geographic and time scope. Use authoritative primary sources for laws, policies, institutional mandates, official programmes, scientific capabilities and public data wherever possible.
+- For consequential claims about implementation, operating status, capacity, reach, funding, relationships, eligibility, commercial terms or demand, require appropriate corroboration. A single announcement or self-description rarely establishes these operational facts.
+- Distinguish proposals, announcements, approvals, implementation, enforcement, disbursement and actual use. Never treat one stage as proof of another.
+- Do not record an unverified organisation, programme, facility, relationship, problem or opportunity as an established local fact. Keep unresolved items in the active research process or temporary working notes until they meet the evidence standard.
+- If continuity requires noting an unresolved matter in GitHub, record only the neutral **question to investigate** and why it matters; do not repeat the unsupported claim as fact.
+- Every factual research record must state what the evidence establishes, what it does not establish, its source and date, and the relevant geographic and temporal limits.
+- Prefer a smaller repository of reliable, traceable information over a large collection of weak leads.
+
+This principle applies to every research pathway, including Plateau Agriculture Opportunity.
