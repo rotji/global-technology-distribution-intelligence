@@ -134,3 +134,24 @@ GitHub is the durable record of the project's governing principles, research arc
 - Prefer a smaller repository of reliable, traceable information over a large collection of weak leads.
 
 This principle applies to every research pathway, including Plateau Agriculture Opportunity.
+
+## 22. Resume from the exact recorded stopping point, regardless of the time away
+
+A research session may pause for days, months or years. A pause does not reset the project, authorise a fresh start, or justify repeating completed work. The default is to continue from the last reliable state preserved in the repository.
+
+At the beginning of every resumed session:
+
+1. **Re-establish the project identity and scope.** Read the current repository structure, project charter, README/index files and governing research principles. Do not assume an old chat summary or remembered plan is more authoritative than the current repository.
+2. **Locate the relevant research pathway.** Open its index and the underlying detailed records, decisions, source records and changelog entries relevant to the work being resumed.
+3. **Reconstruct the stopping point from evidence.** Identify what was completed, what was deliberately deferred, what remains unresolved, the last actual research action and the next justified action. Use dated records and source references, not guesses.
+4. **Check for overlap before doing anything.** Compare the proposed next action with existing records and prior coverage. Do not repeat a search, explanation, comparison, verification or documentation task merely because time has passed or the conversation has restarted.
+5. **Check whether circumstances changed.** Revisit completed findings only when their time sensitivity, a new source, a material change, a contradiction, a decision need or a necessary validation justifies it. Make the reason for revisiting explicit and preserve the earlier dated record.
+6. **State the continuation point briefly.** Tell the user what the records show was completed, what remains open and exactly where the work will resume. Do not make the user reconstruct project history that the repository can establish.
+7. **Continue only after resolving material ambiguity.** If the records conflict, are incomplete or do not establish the stopping point, say precisely what is missing and investigate that gap. Do not invent continuity or silently restart from a convenient earlier stage.
+
+The changelog records repository changes; it is not, by itself, a complete task tracker. The README is an index, not proof that its listed topics have been researched. The authoritative stopping point must be reconstructed from the actual relevant research records, decisions, evidence and dated work.
+
+**No elapsed period—one week, one month, one year or ten years—automatically makes completed work new again.** The project resumes from its recorded state, while time-sensitive facts are revalidated only where necessary.
+
+This rule applies project-wide to every sector, geography, research pathway, provider assessment and future workstream.
+
