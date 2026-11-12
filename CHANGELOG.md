@@ -2,6 +2,15 @@
 
 All meaningful project-level research and documentation changes are recorded here.
 
+## 2026-11-12 — Long-term continuity and exact-resumption rule
+
+- Strengthened the project-wide no-repetition principle with a mandatory resume protocol for sessions that restart after any length of time, including weeks, months or years.
+- Required each resumed session to re-establish scope from the live repository, inspect relevant underlying records and decisions, reconstruct the actual stopping point, check for overlap, and identify the next justified action before continuing.
+- Clarified that conversation summaries, README files and changelog entries are not substitutes for underlying research records; elapsed time alone does not justify repeating completed work.
+- Required time-sensitive findings to be revisited only when new evidence, material change, contradiction, decision need or necessary validation warrants it, preserving earlier dated records.
+- No agricultural factual findings were added as part of this continuity-rule update.
+
+
 ## 2026-11-12 — Plateau Agriculture ecosystem architecture and evidence gate
 
 - Agreed and documented a broad ecosystem architecture for Plateau Agriculture Opportunity, extending beyond production and commodity value chains to include land and ecology; people and organisations; research institutions, laboratories and innovation; law, public policy and regulation; standards, testing and certification; knowledge, data and information networks; finance and risk; infrastructure and logistics; technology and service providers; markets, trade and adjacent systems.
