@@ -93,18 +93,41 @@ Do not let recency, familiarity, convenience or the order of discovery determine
 
 A sector, geography, provider, organisation, pilot or case study is a pathway through which the mission is investigated, not the mission itself. Research pathways may change as evidence develops. Do not let an initial case study become a permanent boundary or centre without a deliberate, evidence-backed decision.
 
-## 18. Existing solutions before building
+## 18. Existing capabilities and solutions before building
 
-Before proposing software, hardware or a new service, investigate established providers, existing platforms, startups, local operators and practical alternatives.
+Before proposing software, hardware, automation, AI systems or a new service, establish what outcome is required and what capabilities are necessary to achieve it.
 
-Prefer partnership, integration, implementation, distribution, referral, promotion or adoption of an existing solution when it can meet the need. Consider building only when:
-- A genuine, material gap remains after examining existing solutions and emerging alternatives.
+Investigate existing capabilities across:
+- People, skills, knowledge and expertise.
+- Businesses, institutions, organisations and networks.
+- Existing services, infrastructure and operational arrangements.
+- Technology providers, platforms, software and hardware.
+- Data, information sources and research resources.
+- Tools, APIs, integrations, AI capabilities and automation systems.
+- Manual, informal and low-technology alternatives.
+
+Do not assume that the required capability must come from a newly acquired technology or a single provider.
+
+Assess whether existing capabilities can be:
+- Reused directly.
+- Accessed through an existing service or arrangement.
+- Combined with other available capabilities.
+- Integrated through permitted interfaces or relationships.
+- Configured or adapted without unnecessary development.
+- Delivered through a partnership, implementation or service arrangement.
+
+Prefer partnership, integration, implementation, distribution, referral, promotion or adoption of an existing solution when it can adequately meet the need.
+
+Consider building only when:
+- A genuine, material gap remains after examining existing capabilities, solutions and emerging alternatives.
 - The gap is supported by evidence rather than preference or technical curiosity.
 - A concrete customer request, buyer incentive or other credible reason to build exists.
-- Feasibility, cost, maintenance, operational responsibility and the user's constraints have been assessed.
+- Feasibility, cost, maintenance, operational responsibility, dependencies and the user's constraints have been assessed.
 - The user has approved moving beyond research.
 
-Continue monitoring the solution landscape before committing to a build, because another provider may address the gap.
+Continue monitoring the solution landscape before committing to a build, because another provider or combination of existing capabilities may address the gap.
+
+The objective is to achieve the required outcome, not to accumulate technologies or create new systems unnecessarily.
 
 ## 19. Deep dives must be justified
 
@@ -154,4 +177,46 @@ The changelog records repository changes; it is not, by itself, a complete task 
 **No elapsed period—one week, one month, one year or ten years—automatically makes completed work new again.** The project resumes from its recorded state, while time-sensitive facts are revalidated only where necessary.
 
 This rule applies project-wide to every sector, geography, research pathway, provider assessment and future workstream.
+
+## 23. Assess capability sufficiency and reassess when circumstances change
+
+Do not introduce a new tool, provider, platform, integration or development project when existing capabilities adequately meet the requirement.
+
+For material capability or solution decisions:
+- Identify the required outcome and the capabilities necessary to achieve it.
+- Establish which relevant capabilities already exist and whether they are accessible.
+- Assess whether existing arrangements are sufficiently reliable, suitable, maintainable and proportionate.
+- Record material gaps, dependencies, limitations and unresolved requirements.
+- Prefer the existing arrangement when it adequately satisfies the requirement and no material risk justifies changing it.
+
+Reassess a previous decision when relevant changes occur, including:
+- New requirements or customer needs.
+- Changes in provider availability, pricing, eligibility or commercial terms.
+- Technical limitations, service degradation or discontinued products.
+- New capabilities, providers, alternatives or integration options.
+- Changes in resources, skills, infrastructure or operating constraints.
+- New evidence that materially changes the original assessment.
+
+Preserve the original decision and its evidence. Record the new information, explain why reassessment was necessary and document the revised decision.
+
+Do not reassess everything continuously without reason. Reassessment should be proportionate to the importance, uncertainty and likelihood of material change.
+
+## 24. Require capability-first reasoning from AI contributors
+
+AI contributors working on this project must follow the same project governance principles as other contributors.
+
+Before recommending a new AI service, model, platform, agent, API, connector, automation tool or technical integration, an AI contributor should:
+- Understand the actual research or operational requirement.
+- Examine the relevant existing project documentation and available capabilities.
+- Distinguish between models, instructions, skills, tools, APIs, connectors, data, context and orchestration where relevant.
+- Consider whether existing tools or combinations of capabilities already meet the requirement.
+- Explain the additional capability a proposed technology would provide.
+- Assess access restrictions, free-tier limits, token or usage constraints, maintenance, dependencies, privacy, security and hidden costs.
+- Present alternatives and explain why a new capability is justified.
+
+An AI contributor must not assume that a new tool, subscription, integration, automation or development project is necessary merely because it is technically possible.
+
+AI recommendations are proposals, not approved project decisions. External actions, commitments, registrations, payments, outreach and material changes remain subject to the project's existing authorisation rules.
+
+AI contributors must not claim to have inspected resources, verified capabilities, updated records or completed actions that they have not actually accessed or performed.
 
