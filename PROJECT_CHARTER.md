@@ -56,6 +56,9 @@ The Plateau research has an explicit internal hierarchy: **Plateau State Economi
 8. Preserve the zero-upfront-capital constraint unless the user explicitly changes it.
 9. Do not treat a research lead as a partner, a hypothesis as demand, or nominal reach as activation.
 10. No external outreach or paid commitment without the user's explicit authorisation.
+11. Define the required outcome and capabilities before selecting technology, tools, platforms or other solutions.
+12. Reuse, combine or integrate existing capabilities before considering new development. Build only when a material, evidence-supported gap remains and the existing build-approval conditions are satisfied.
+13. Choose solutions proportionate to the requirement and the project's resources. Consider total cost, time, skills, access, maintenance, operational responsibility, dependencies and continuity, not merely whether a tool is free or technically possible.
 
 ## Out of scope for the initial research phase
 
