@@ -10,7 +10,9 @@ Technology distribution and partnership development are important routes to valu
 
 ## Governing approach
 
-> Understand the environment before prescribing a solution. Explore broadly before committing narrowly. Investigate existing solutions and commercial routes before considering building anything.
+> Understand the environment before prescribing a solution. Explore broadly before committing narrowly. Identify the capabilities required, investigate what already exists, and assemble existing capabilities before considering new development.
+
+The project is capability-first and technology-neutral. It does not assume that every problem requires a technology product, a new platform, an AI system or a software build. Existing people, organisations, services, infrastructure, information, tools and technologies may already provide the required capabilities.
 
 Do not assume that the first sector, location, community, organisation, customer group or provider examined is the permanent centre of the project. Research directions are provisional; the parent mission remains broad.
 
@@ -30,10 +32,11 @@ Do not assume that the first sector, location, community, organisation, customer
 2. **Record discoveries:** preserve dated evidence, sources, confidence, unknowns and relationships.
 3. **Compare:** assess findings across locations, sectors, actors and possible use cases before prioritising.
 4. **Understand the problem:** identify who experiences it, how it is currently handled, its consequences and who might pay or authorise a response.
-5. **Map existing solutions:** investigate established providers, startups, technologies and services before proposing something new.
-6. **Identify routes to value:** examine partnerships, implementation, integration, distribution, institutional access and other feasible commercial relationships.
-7. **Verify and decide:** test technical fit, demand, authority, economics, eligibility, operational requirements and risks.
-8. **Go deeper when justified:** design a bounded validation or pilot only when the evidence supports it.
+5. **Identify required capabilities:** establish what must be possible to address the need before selecting a technology or solution.
+6. **Investigate and assemble existing capabilities:** examine existing people, organisations, resources, services, technologies and platforms. Determine whether they can be reused, combined, integrated or accessed through a legitimate relationship.
+7. **Identify routes to value:** examine partnerships, implementation, integration, distribution, institutional access and other feasible commercial relationships.
+8. **Verify and decide:** test capability, demand, authority, economics, eligibility, operational requirements, proportionality and risks.
+9. **Go deeper when justified:** design a bounded validation or pilot only when the evidence supports it.
 
 The broad-first approach is a default, not a ban on urgent or unusually promising deep dives. Any early deep dive should have a recorded reason.
 
@@ -44,6 +47,10 @@ The broad-first approach is a default, not a ban on urgent or unusually promisin
 - **Network leverage:** where a relevant existing network can credibly reach customers or users, assess it as a route to market. Nominal membership or audience size is not proof of activation.
 - **Zero-capital discipline:** prioritise routes without upfront fees, compulsory purchases, inventory, paid licences, equipment or mandatory paid certification. Record other hidden costs and constraints.
 - **No assumed authority or partnership:** a listed organisation, public contact detail or provider programme is a research lead, not an agreement.
+- **Capability before technology:** define the required outcome and capabilities before selecting tools, platforms or technical solutions.
+- **Assemble before building:** investigate whether existing capabilities can be reused, combined, integrated or accessed through partnerships before proposing new development. Build only when a material, evidence-supported gap remains and the existing build-approval conditions are satisfied.
+- **Proportionate solutions:** prefer the simplest maintainable arrangement that adequately meets the requirement. Consider financial cost, time, skills, maintenance, operational obligations and dependencies.
+- **Continuous reassessment:** reconsider capability and solution choices when requirements, available resources, provider conditions or operating circumstances materially change.
 
 ## Initial research pathways
 
