@@ -97,6 +97,66 @@ Assess real capability, availability, local fit, price, access, implementation b
 
 Prefer using, partnering with, integrating, implementing, referring or distributing an existing solution where it can meet the need. Consider building only after a genuine gap remains, a concrete customer request or incentive exists, feasibility is assessed and the user approves moving beyond research.
 
+## Stage 6A — Assess required and existing capabilities
+
+Before selecting a solution, identify the capabilities required to address the discovered need.
+
+A capability is an ability to achieve a particular outcome. A resource is something available that may enable that ability. Resources can include people, skills, organisations, infrastructure, information, services, tools and technologies.
+
+For a material opportunity, establish:
+
+1. **Required outcome:** What must be accomplished?
+2. **Required capabilities:** What abilities, services or functions are necessary?
+3. **Existing capabilities:** Which relevant abilities are already available?
+4. **Accessible resources:** Which people, organisations, services, infrastructure, data and tools can provide them?
+5. **Sufficiency:** Can the available capabilities adequately meet the requirement?
+6. **Limitations:** What is unavailable, unreliable, inaccessible, unsuitable or disproportionately expensive?
+7. **Dependencies:** Does the arrangement depend excessively on one provider, platform, organisation or resource?
+8. **Constraints:** What financial, technical, operational, regulatory, geographic and maintenance requirements apply?
+
+Do not assume that an identified resource is accessible, authorised, reliable or suitable. Verify material requirements using the relevant evidence standards.
+
+## Stage 6B — Assemble existing capabilities before building
+
+Where no single existing solution meets the entire requirement, examine whether available capabilities can be combined.
+
+Consider:
+- Reusing existing services or infrastructure.
+- Combining complementary providers or platforms.
+- Integrating existing tools through permitted interfaces.
+- Working with organisations that already possess the required skills or access.
+- Using manual or low-technology processes where they are adequate.
+- Configuring existing systems rather than developing replacements.
+- Establishing legitimate implementation, referral, service or partnership arrangements.
+
+Assess the total arrangement, not only the individual components. Consider compatibility, access permissions, reliability, ownership, operating responsibility, maintenance, cost, security, data handling and provider dependencies.
+
+Do not assume that combining several free services produces a free or sustainable solution. Account for usage limits, time, coordination, technical maintenance and other obligations.
+
+If existing capabilities adequately meet the requirement, record that conclusion. Do not introduce additional technology or development merely to make the arrangement more sophisticated.
+
+## Capability assessment record
+
+Use a proportionate record when a material decision depends on capability selection.
+
+| Field | Required information |
+|---|---|
+| Discovery or opportunity | Relevant record or discovery ID |
+| Required outcome | What must be accomplished |
+| Required capabilities | Abilities or functions needed |
+| Existing capabilities | What already exists and can be accessed |
+| Evidence | Sources supporting capability and availability claims |
+| Assembly options | Reuse, combination, integration or partnership possibilities |
+| Remaining gap | What cannot adequately be achieved |
+| Constraints | Cost, access, skills, maintenance, dependencies and risks |
+| Decision | Reuse, combine, integrate, investigate, defer, reject or consider development |
+| Rationale | Why the selected approach is proportionate |
+| Reassessment trigger | What material change would justify reviewing the decision |
+
+A short documented assessment is sufficient for a straightforward decision. A detailed assessment is appropriate when the decision involves significant cost, dependencies, operational obligations, uncertainty or long-term consequences.
+
+Do not create an assessment record merely for administrative completeness when no material capability decision exists.
+
 ## Stage 7 — Identify routes to value
 
 Depending on the discovery, consider:
@@ -123,6 +183,13 @@ Use the [Evidence and Verification](evidence-and-verification.md) rules. Where r
 - Local implementation and support capacity.
 - Safety, legal, regulatory, privacy and reputational risks.
 - Clear responsibilities and value exchange.
+- Whether existing capabilities are sufficient.
+- Whether combining existing capabilities is more practical than introducing a new system.
+- Whether the proposed arrangement creates unnecessary complexity or dependencies.
+- Whether the total financial and operational burden is proportionate to the expected outcome.
+- What changes would justify reassessing the decision.
+
+For a material solution or technology decision, record the evidence supporting the selected approach and the reasons for rejecting or deferring alternatives.
 
 Possible outcomes include:
 - **Continue research:** meaningful questions remain and further evidence is justified.
