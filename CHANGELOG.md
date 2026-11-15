@@ -1,5 +1,16 @@
 # Changelog
 
+## 2026-11-15 — Capability-first governance and solution assessment
+
+- Expanded the project charter and research principles to require defining outcomes and capabilities before selecting technology or other solutions.
+- Strengthened the existing-solutions-before-building rule to cover people, organisations, services, infrastructure, information, tools, technology, manual alternatives and combinations of capabilities.
+- Added proportionate capability sufficiency and reassessment requirements, preserving earlier decisions and evidence when circumstances change.
+- Added project rules for AI contributors: inspect existing capabilities, distinguish relevant AI and integration components, assess access and operating constraints, and treat recommendations as proposals rather than authorisations.
+- Extended the opportunity discovery methodology with capability assessment, assembly-before-building guidance, and a proportionate assessment record.
+- Extended provider assessment to examine capability fit, dependencies, proportionality and reassessment.
+- The root README already contained the corresponding capability-first governing approach, research sequence and strategic principles; no README edit was necessary.
+- No research findings, provider statuses, opportunity decisions, workbook records or external relationships were changed. No outreach, registration, payment or execution was performed.
+
 All meaningful project-level research and documentation changes are recorded here.
 
 ## 2026-11-12 — Current-reality reconciliation on project resumption
