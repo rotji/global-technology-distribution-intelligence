@@ -1,6 +1,6 @@
 # Changelog
 
-## 2026-11-15 — Capability-first governance and solution assessment
+## 2026-11-16 — Capability-first governance and solution assessment
 
 - Expanded the project charter and research principles to require defining outcomes and capabilities before selecting technology or other solutions.
 - Strengthened the existing-solutions-before-building rule to cover people, organisations, services, infrastructure, information, tools, technology, manual alternatives and combinations of capabilities.
