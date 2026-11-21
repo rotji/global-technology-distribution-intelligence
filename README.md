@@ -56,6 +56,14 @@ The broad-first approach is a default, not a ban on urgent or unusually promisin
 
 The initial repository work examined Farmonaut, agriculture and mining technology, Nigerian distribution networks, and alternatives to individual providers. These are historical starting points and active research records, not permanent boundaries for the project.
 
+
+
+### AI Data, API & Agent Economy
+
+This is a new research pathway examining AI data sourcing and licensing, data marketplaces and intermediaries, independent referral and supplier programmes, and the API/MCP and AI-agent economy. It explores near-term participation routes and longer-term specialist intelligence possibilities without assuming that a new product should be built.
+
+The initial active validation work concerns three user-sent inquiries to Patronus AI, micro1 and Turing / Project Lazarus. Scale AI and Handshake AI have been researched but are deferred. No Nigerian eligibility, payout route or commission entitlement has yet been confirmed. See the [AI Data, API & Agent Economy research index](docs/research/ai-data-and-agent-economy/README.md).
+
 ### Plateau State Economic & Opportunity Discovery
 
 Plateau is a geographic research programme under the parent project. Its parent scope is the **Plateau State economy and opportunity landscape**: the state's communities, economic activities, sectors, value chains, institutions, businesses, services, infrastructure, resources, technologies and market relationships.
@@ -106,6 +114,7 @@ The LGA discovery register provides a geographic coverage view across the state.
 - [Nigeria agriculture provider and use-case comparison](docs/research/nigeria/agriculture-provider-use-case-comparison.md)
 - [Technology platform alternatives: agriculture and mining](docs/research/platform-alternatives/agriculture-and-mining-platforms.md)
 - [Farmonaut case study](docs/research/farmonaut/company-profile.md)
+- [AI Data, API & Agent Economy](docs/research/ai-data-and-agent-economy/README.md)
 
 ## How project continuity is maintained
 
