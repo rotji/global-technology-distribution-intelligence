@@ -15,6 +15,7 @@ This document records decisions and their evidence status to avoid repeating rej
 | Treat Plateau State Economic & Opportunity Discovery as the parent geographic research area | Active | The parent scope is the wider Plateau State economy; sector investigations are child pathways beneath it |
 | Establish Plateau Agriculture Opportunity as the first sector child | Active | Agriculture is an initial research pathway, not the whole Plateau economy; other sectors may be added when justified |
 | Investigate existing solutions before considering a build | Active | Prefer viable existing providers, partnerships, integration, implementation or distribution; build only after a genuine gap and concrete incentive are established |
+| Add AI Data, API & Agent Economy as a research pathway | Active research pathway | The current work examines AI data sourcing/licensing, marketplaces, referral programmes and API/MCP opportunities while preserving the parent mission and zero-capital constraint; no product build is approved |
 
 ## Research architecture decisions
 
@@ -30,6 +31,18 @@ This document records decisions and their evidence status to avoid repeating rej
 - **Known:** User has researched website materials and sent an enquiry about agriculture and mining affiliate opportunities.
 - **Unknown:** Nigerian eligibility, exact commissions, payout terms, fees, attribution, and permission for network-level distribution.
 - **Decision:** Do not represent either programme as qualified until provider confirmation is received.
+
+
+## AI Data, API & Agent Economy
+
+- **Status:** Active research pathway; no commercial programme qualified yet.
+- **Scope:** AI data demand and supply, data rights and licensing, marketplaces and intermediaries, referral/sourcing programmes, APIs, MCP and specialist intelligence services.
+- **Active outreach:** User confirms inquiries were sent to Patronus AI, micro1 and Turing / Project Lazarus. All are recorded as awaiting replies; no provider acknowledgment or substantive response is claimed.
+- **Deferred:** Scale AI and Handshake AI have been researched but are deferred at the user's direction; no inquiry is recorded as sent.
+- **Marketplace research:** DataFactor, Defined.ai and Data Partners HQ have been examined as distinct business models. Their commercial terms and Nigerian individual eligibility must not be assumed.
+- **Unknown:** Nigerian eligibility, accepted independent sourcing methods, exact compensation, attribution, payout routes and contractual requirements for the three active inquiries.
+- **API/MCP direction:** exploratory only. No API, MCP server, agent platform or website product has been approved for development.
+- **Decision:** Continue evidence-led research and review provider replies before submitting leads, registering as a supplier, sharing data samples, making commitments or designing a build.
 
 ## Nigerian agriculture network leads
 
