@@ -1,5 +1,16 @@
 # Changelog
 
+## 2026-11-21 — AI Data, API & Agent Economy research pathway
+
+- Added a research pathway covering the AI data value chain, data supply and licensing, marketplaces and intermediaries, referral/sourcing programmes, API/MCP opportunities and opportunity assessment.
+- Recorded preliminary research on DataFactor, Defined.ai and Data Partners HQ, preserving distinctions between data buyers, marketplaces, brokers, suppliers, service providers and referral intermediaries.
+- Recorded the user's confirmation that inquiry emails were sent to Patronus AI, micro1 and Turing / Project Lazarus; all three remain awaiting provider replies. Scale AI and Handshake AI are recorded as deferred, with no inquiry sent.
+- Added an outreach tracker and reply-handling protocol aligned with the daily Gmail monitoring task. No reply or provider confirmation is claimed.
+- Recorded zero-capital and Nigeria-access questions to verify, including eligibility, sourcing authority, compensation, attribution, payout, legal terms and operational obligations.
+- Added API/MCP research boundaries: these are access mechanisms, not proof of demand or automatic payment channels. No product build has been approved.
+- No data samples were submitted, third-party data rights acquired, supplier registrations made, or additional external outreach or commercial commitments undertaken.
+- Existing project mission and governance remain unchanged; this is an additional research pathway. The companion workbook was not updated.
+
 ## 2026-11-16 — Capability-first governance and solution assessment
 
 - Expanded the project charter and research principles to require defining outcomes and capabilities before selecting technology or other solutions.
